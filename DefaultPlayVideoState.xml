@@ -1,0 +1,29 @@
+<PlayVideoState xmlns="http://schemas.datacontract.org/2004/07/ResumeVideoGame" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <backgroundPath>PlayVideoState/backgroundcode</backgroundPath>
+  <backgroundRect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>600</a:Height>
+    <a:Width>800</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </backgroundRect>
+  <continueButtonImgPath>LeapTimeButton/continue</continueButtonImgPath>
+  <continueButtonRect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </continueButtonRect>
+  <fontPath>ResumeGamePlayState/SpriteFont1</fontPath>
+  <levelChoice>LevelOne</levelChoice>
+  <soundContinueButtonPath>ResumeGamePlayState/boom</soundContinueButtonPath>
+  <state>0</state>
+  <video2Path>PlayVideoState/computerrepairspeedvideofinal</video2Path>
+  <videoPath>PlayVideoState/deepestmasterofcode</videoPath>
+  <videogamemusicPath>PlayVideoState/bgmusic01</videogamemusicPath>
+  <videotexturerect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+     <a:Height>600</a:Height>
+    <a:Width>800</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </videotexturerect>
+</PlayVideoState>

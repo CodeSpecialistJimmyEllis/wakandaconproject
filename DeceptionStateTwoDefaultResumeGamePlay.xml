@@ -1,0 +1,146 @@
+<ResumeVideoGame xmlns="http://schemas.datacontract.org/2004/07/ResumeVideoGame" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <APath>ResumeGamePlayState/buttonfolder/A</APath>
+  <Arect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </Arect>
+  <BPath>ResumeGamePlayState/buttonfolder/B</BPath>
+  <Brect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </Brect>
+  <JimmyEllisPath>ProfoundBlessing/hero</JimmyEllisPath>
+  <JimmyEllisRectangle xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>300</a:Y>
+  </JimmyEllisRectangle>
+  <XPath>ResumeGamePlayState/buttonfolder/X</XPath>
+  <Xrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </Xrect>
+  <YPath>ResumeGamePlayState/buttonfolder/Y</YPath>
+  <Yrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </Yrect>
+  <backgroundPath>ProfoundBlessing/backgroundnowords</backgroundPath>
+  <boomPath>ResumeGamePlayState/boom</boomPath>
+  <chooseImgPath>ResumeGamePlayState/choose</chooseImgPath>
+  <deepestmasterofcodeSongPath>ProfoundBlessing/BlessedSong</deepestmasterofcodeSongPath>
+  <downrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </downrect>
+  <fontPath>content/Font1</fontPath>
+  <heightsize>128</heightsize>
+  <heroprojectilePath>ProfoundBlessing/heroprojectile</heroprojectilePath>
+  <heroprojectilerect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>175</a:Width>
+    <a:X>50</a:X>
+    <a:Y>320</a:Y>
+  </heroprojectilerect>
+  <heroprojectilespeed>100</heroprojectilespeed>
+  <hitbuttonlocation xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>325</a:X>
+    <a:Y>250</a:Y>
+  </hitbuttonlocation>
+  <hitheightsize>128</hitheightsize>
+  <hitwidthsize>128</hitwidthsize>
+  <hitxaxis>325</hitxaxis>
+  <hityaxis>250</hityaxis>
+    <levelDestination>Deception</levelDestination>
+  <leftbuttonrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </leftbuttonrect>
+  <leftrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </leftrect>
+  <lefttriggerrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </lefttriggerrect>
+  <rightbuttonrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </rightbuttonrect>
+  <rightrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </rightrect>
+  <righttriggerrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </righttriggerrect>
+  <scorePath>ResumeGamePlayState/scoretext</scorePath>
+  <selectrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </selectrect>
+  <spritefont1Path>ResumeGamePlayState/SpriteFont1</spritefont1Path>
+  <startrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>0</a:Height>
+    <a:Width>0</a:Width>
+    <a:X>0</a:X>
+    <a:Y>0</a:Y>
+  </startrect>
+  <state>2</state>
+  <uprect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>0</a:X>
+    <a:Y>150</a:Y>
+  </uprect>
+  <vilianOnePath>ProfoundBlessing/villian</vilianOnePath>
+  <villianFourPath>ProfoundBlessing/villian</villianFourPath>
+  <villianThreePath>ProfoundBlessing/villian</villianThreePath>
+  <villianTwoPath>ProfoundBlessing/villian</villianTwoPath>
+  <villianprojecticerect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>670</a:X>
+    <a:Y>300</a:Y>
+  </villianprojecticerect>
+  <villianprojectilePath>ProfoundBlessing/villianprojectile</villianprojectilePath>
+  <villianspeed>1</villianspeed>
+  <villiansrect xmlns:a="http://schemas.datacontract.org/2004/07/Microsoft.Xna.Framework">
+    <a:Height>128</a:Height>
+    <a:Width>128</a:Width>
+    <a:X>670</a:X>
+    <a:Y>300</a:Y>
+  </villiansrect>
+  <widthsize>128</widthsize>
+  <xaxis>0</xaxis>
+  <yaxis>150</yaxis>
+</ResumeVideoGame>
